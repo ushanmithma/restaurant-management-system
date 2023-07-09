@@ -1,0 +1,86 @@
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\bin\Debug\rms.exe.config
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.exe
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.pdb
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\bin\Debug\rms.exe
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\bin\Debug\rms.pdb
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.csprojResolveAssemblyReference.cache
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.customer.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.employee.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.empupdate.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.Properties.Resources.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.csproj.GenerateResource.Cache
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.empdelete.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.empsearch.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.home.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.custupdate.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.custsearch.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.supplier.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.supupdate.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.supdelete.resources
+C:\Users\Greatest-Lord\documents\visual studio 2012\Projects\rms\rms\obj\Debug\rms.supsearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.orders.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.delivery.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.invedelete.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.inventory.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.inveupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.payments.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.custpaysearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.inveadd.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.mealdelete.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.meal.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.mealsearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.mealupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.invesearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.dinein.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.custpayments.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.login.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.user.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.userdelete.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.userlogged.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.userloggedupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.usersearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.userupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\bin\Debug\rms.exe.config
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.exe
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.pdb
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\bin\Debug\rms.exe
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\bin\Debug\rms.pdb
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.csprojResolveAssemblyReference.cache
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.custpayments.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.dinein.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.inveadd.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.customer.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.custpaysearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.custsearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.custupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.delivery.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.empdelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.employee.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.empsearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.empupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.invesearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.login.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.mealdelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.meal.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.mealsearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.mealupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.home.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.invedelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.inventory.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.inveupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.orders.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.payments.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.Properties.Resources.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.supdelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.supplier.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.supsearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.supupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.user.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.userdelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.userlogged.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.userloggedupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.usersearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.userupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Debug\rms.csproj.GenerateResource.Cache

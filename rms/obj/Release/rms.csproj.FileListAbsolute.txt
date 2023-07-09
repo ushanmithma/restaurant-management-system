@@ -1,0 +1,86 @@
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\bin\Release\rms.exe.config
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\bin\Release\rms.exe
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\bin\Release\rms.pdb
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\bin\Release\FontAwesome.Sharp.dll
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.csprojResolveAssemblyReference.cache
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.dinein.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.inveadd.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.customer.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.custpaysearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.custsearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.custupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.delivery.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.empdelete.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.employee.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.empsearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.empupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.invesearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.mealdelete.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.meal.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.mealsearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.mealupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.home.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.invedelete.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.inventory.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.inveupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.orders.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.payments.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.Properties.Resources.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.supdelete.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.supplier.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.supsearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.supupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.csproj.GenerateResource.Cache
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.exe
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.pdb
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.custpayments.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.login.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.user.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.userlogged.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.userupdate.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.userdelete.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.usersearch.resources
+C:\Users\Greatest-Lord\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.userloggedupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\bin\Release\rms.exe.config
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.exe
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.pdb
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\bin\Release\rms.exe
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\bin\Release\rms.pdb
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\bin\Release\FontAwesome.Sharp.dll
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.csprojResolveAssemblyReference.cache
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.custpayments.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.dinein.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.inveadd.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.customer.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.custpaysearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.custsearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.custupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.delivery.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.empdelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.employee.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.empsearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.empupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.invesearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.login.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.mealdelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.meal.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.mealsearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.mealupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.home.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.invedelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.inventory.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.inveupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.orders.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.payments.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.Properties.Resources.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.supdelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.supplier.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.supsearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.supupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.user.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.userdelete.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.userlogged.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.userloggedupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.usersearch.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.userupdate.resources
+C:\Users\Isuru Morathote\Documents\Visual Studio 2012\Projects\rms\rms\obj\Release\rms.csproj.GenerateResource.Cache

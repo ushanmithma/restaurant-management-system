@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{601FAD26-7A12-4A84-BC72-1441A2210DF0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>rms</RootNamespace>
+    <AssemblyName>rms</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.12.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.12.0\lib\net45\FontAwesome.Sharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SQL Server Compact Edition\v4.0\Desktop\System.Data.SqlServerCe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustPaymentClass.cs" />
+    <Compile Include="custpayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="custpayments.Designer.cs">
+      <DependentUpon>custpayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeliveryClass.cs" />
+    <Compile Include="dinein.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dinein.Designer.cs">
+      <DependentUpon>dinein.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DineInClass.cs" />
+    <Compile Include="inveadd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="inveadd.Designer.cs">
+      <DependentUpon>inveadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common.cs" />
+    <Compile Include="Connection.cs" />
+    <Compile Include="customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer.Designer.cs">
+      <DependentUpon>customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerClass.cs" />
+    <Compile Include="custpaysearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="custpaysearch.Designer.cs">
+      <DependentUpon>custpaysearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="custsearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="custsearch.Designer.cs">
+      <DependentUpon>custsearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="custupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="custupdate.Designer.cs">
+      <DependentUpon>custupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delivery.Designer.cs">
+      <DependentUpon>delivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empdelete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="empdelete.Designer.cs">
+      <DependentUpon>empdelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee.Designer.cs">
+      <DependentUpon>employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empsearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="empsearch.Designer.cs">
+      <DependentUpon>empsearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="empupdate.Designer.cs">
+      <DependentUpon>empupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryClass.cs" />
+    <Compile Include="invesearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="invesearch.Designer.cs">
+      <DependentUpon>invesearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MealClass.cs" />
+    <Compile Include="mealdelete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="mealdelete.Designer.cs">
+      <DependentUpon>mealdelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="meal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="meal.Designer.cs">
+      <DependentUpon>meal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mealsearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="mealsearch.Designer.cs">
+      <DependentUpon>mealsearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mealupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="mealupdate.Designer.cs">
+      <DependentUpon>mealupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="invedelete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="invedelete.Designer.cs">
+      <DependentUpon>invedelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inventory.Designer.cs">
+      <DependentUpon>inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inveupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="inveupdate.Designer.cs">
+      <DependentUpon>inveupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orders.Designer.cs">
+      <DependentUpon>orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrdersClass.cs" />
+    <Compile Include="payments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payments.Designer.cs">
+      <DependentUpon>payments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="EmployeeClass.cs" />
+    <Compile Include="supdelete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="supdelete.Designer.cs">
+      <DependentUpon>supdelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupPaymentClass.cs" />
+    <Compile Include="supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplier.Designer.cs">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierClass.cs" />
+    <Compile Include="supsearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="supsearch.Designer.cs">
+      <DependentUpon>supsearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="supupdate.Designer.cs">
+      <DependentUpon>supupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserClass.cs" />
+    <Compile Include="userdelete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userdelete.Designer.cs">
+      <DependentUpon>userdelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userlogged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userlogged.Designer.cs">
+      <DependentUpon>userlogged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userloggedupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userloggedupdate.Designer.cs">
+      <DependentUpon>userloggedupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usersearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usersearch.Designer.cs">
+      <DependentUpon>usersearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userupdate.Designer.cs">
+      <DependentUpon>userupdate.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="custpayments.resx">
+      <DependentUpon>custpayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dinein.resx">
+      <DependentUpon>dinein.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inveadd.resx">
+      <DependentUpon>inveadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer.resx">
+      <DependentUpon>customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="custpaysearch.resx">
+      <DependentUpon>custpaysearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="custsearch.resx">
+      <DependentUpon>custsearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="custupdate.resx">
+      <DependentUpon>custupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delivery.resx">
+      <DependentUpon>delivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empdelete.resx">
+      <DependentUpon>empdelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee.resx">
+      <DependentUpon>employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empsearch.resx">
+      <DependentUpon>empsearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empupdate.resx">
+      <DependentUpon>empupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="invesearch.resx">
+      <DependentUpon>invesearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mealdelete.resx">
+      <DependentUpon>mealdelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="meal.resx">
+      <DependentUpon>meal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mealsearch.resx">
+      <DependentUpon>mealsearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mealupdate.resx">
+      <DependentUpon>mealupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="invedelete.resx">
+      <DependentUpon>invedelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inventory.resx">
+      <DependentUpon>inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inveupdate.resx">
+      <DependentUpon>inveupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orders.resx">
+      <DependentUpon>orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payments.resx">
+      <DependentUpon>payments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="supdelete.resx">
+      <DependentUpon>supdelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplier.resx">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supsearch.resx">
+      <DependentUpon>supsearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supupdate.resx">
+      <DependentUpon>supupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user.resx">
+      <DependentUpon>user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userdelete.resx">
+      <DependentUpon>userdelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userlogged.resx">
+      <DependentUpon>userlogged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userloggedupdate.resx">
+      <DependentUpon>userloggedupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usersearch.resx">
+      <DependentUpon>usersearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userupdate.resx">
+      <DependentUpon>userupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
